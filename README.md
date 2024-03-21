@@ -14,5 +14,4 @@ A Spring Boot-based application designed to streamline the management of student
 - **Course Management**: Allows creation and updates of course information, and manages student enrollments in courses, enhancing semester planning and scheduling.
 - **Access Control**: Implements role-based access controls using Apache Shiro, distinguishing permissions across administrators, teachers, and students for secure data access.
 - **Data Optimization**: Combines Spring Data JPA for routine operations and MyBatis for complex queries, ensuring efficient and scalable data management.
-- 
-
+  
